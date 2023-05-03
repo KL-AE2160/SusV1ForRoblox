@@ -70,4 +70,5 @@ if isfolder("sus") then
   else
   makefolder("sus")
 end
+-- L
 return loadstring(susGithubRequest("tempExecute.lua"))()
